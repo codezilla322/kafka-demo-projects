@@ -1,0 +1,14 @@
+{
+  "name": "kafka-nodejs",
+  "version": "1.0.0",
+  "description": "Simple Kafka demo project with SASL PLAIN authentication",
+  "main": "admin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
